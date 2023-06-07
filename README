@@ -1,9 +1,4 @@
-Code will be updated (soon, hopefully).
+Data is in Datastream.mat
+The code for the regression case is in sega_regression.py
 
-This person is crazy busy and lazy. 
-
-The code does not have tricks on paramaters, so she believes readers could implement it by thoroughly reading the paper.
-
-She will update the codes and data when she is in a good mood.
-
-Please send her tons of emails for codes and data if you are really interested, as she may miss emails.
+The code has been tested recently. It runs good. However, due to the updates of python packages, the result is slightly different from the reported accuracy in the paper.
